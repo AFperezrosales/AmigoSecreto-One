@@ -14,6 +14,8 @@ Validación de entrada: Si el usuario intenta agregar un nombre vacío, el siste
 ## Tecnologías Utilizadas
 Para construir esta aplicación se emplean las siguientes tecnologías:
 
-1- HTML: Se utiliza para definir la estructura básica de la página web y los elementos de la interfaz.
-2- CSS: Se encarga de la parte visual de la aplicación, asegurando que la interfaz sea atractiva y fácil de usar.
-3- JavaScript: Se usa para gestionar la lógica del sorteo y la interacción con la interfaz, manipula el DOM (Document Object Model) para agregar, mostrar y seleccionar los nombres de los amigos.
+<1- HTML: Se utiliza para definir la estructura básica de la página web y los elementos de la interfaz. 
+
+<2- CSS: Se encarga de la parte visual de la aplicación, asegurando que la interfaz sea atractiva y fácil de usar.
+
+<3- JavaScript: Se usa para gestionar la lógica del sorteo y la interacción con la interfaz, manipula el DOM (Document Object Model) para agregar, mostrar y seleccionar los nombres de los amigos.
